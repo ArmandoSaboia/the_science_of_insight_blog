@@ -4,7 +4,7 @@ Welcome to "The Science of Insight" blog! This repository hosts the source code 
 
 ## About the Blog
 
-"The Science of Insight" is a platform where we delve into the realms of data science, machine learning, and analytics. Our mission is to share knowledge, explore cutting-edge trends, and provide valuable insights into the world of data.
+"The Science of Insight" is a blog where we delve into the realms of data science, machine learning, and analytics. Our mission is to share knowledge, explore cutting-edge trends, and provide valuable insights into the world of data.
 
 ## Featured Topics
 
