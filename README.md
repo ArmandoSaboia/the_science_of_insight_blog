@@ -30,7 +30,7 @@ If you're passionate about data science and would like to contribute to "The Sci
 
 ## Quick Links
 
-- [Blog Home][(https://the-science-of-insight-blog.streamlit.app/)]
+- [Blog Home](https://the-science-of-insight-blog.streamlit.app/)
 - [Contribution Guidelines](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 
